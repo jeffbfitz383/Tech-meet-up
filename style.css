@@ -1,3 +1,21 @@
 main {
-    background-color: #eeeeff;
+    background-color: #aa00ff;
+
+
+}
+
+#stage {
+    background-color: #ffff88;
+}
+
+#mainact {
+    color: red;
+}
+
+#showname {
+    color: greenyellow
+}
+
+.photo {
+    max-height:200px;
 }
